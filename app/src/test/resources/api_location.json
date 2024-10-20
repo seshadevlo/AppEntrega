@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "location": {
+        "street": {
+          "number": 8814,
+          "name": "Avenida Sur Barreto"
+        },
+        "city": "Tepotzotlán",
+        "state": "Nuevo Leon",
+        "country": "Mexico",
+        "postcode": 22945,
+        "coordinates": {
+          "latitude": "25.8006",
+          "longitude": "177.3765"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      }
+    }
+  ],
+  "info": {
+    "seed": "c033b9cec9d4dcca",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
